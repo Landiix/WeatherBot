@@ -18,7 +18,6 @@ CITIES = {
     'Магнитогорск': 'Magnitogorsk'
 }
 
-
 def get_weather(city_name):
     base_url = "http://api.weatherapi.com/v1/current.json"
 
